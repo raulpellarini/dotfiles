@@ -5,6 +5,7 @@
 export ZSH=~/.oh-my-zsh
 DEFAULT_USER=`whoami`
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_DISABLE_RPROMPT=true
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
